@@ -19,5 +19,5 @@ Before submitting your assignment, please create a `Readme.md` file **in your re
 
 > No. 
 
-#### Please click <a href= "https://mltong.shinyapps.io/a8_shiny/">here</a>to be redirected to my shinyapps.io project 
+#### Please click <a href= "https://mltong.shinyapps.io/a8_shiny/">here </a>to be redirected to my shinyapps.io project 
 
