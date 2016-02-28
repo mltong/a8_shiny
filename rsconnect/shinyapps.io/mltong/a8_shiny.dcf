@@ -1,0 +1,9 @@
+name: a8_shiny
+account: mltong
+server: shinyapps.io
+appId: 86041
+bundleId: 382877
+url: https://mltong.shinyapps.io/a8_shiny/
+when: 1456696155.10115
+asMultiple: FALSE
+asStatic: FALSE
