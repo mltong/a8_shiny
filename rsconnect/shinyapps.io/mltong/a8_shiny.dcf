@@ -2,8 +2,8 @@ name: a8_shiny
 account: mltong
 server: shinyapps.io
 appId: 86041
-bundleId: 382877
+bundleId: 384087
 url: https://mltong.shinyapps.io/a8_shiny/
-when: 1456696155.10115
+when: 1456815162.74231
 asMultiple: FALSE
 asStatic: FALSE
